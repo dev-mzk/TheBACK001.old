@@ -10,17 +10,16 @@
 ![NEXTJS](https://img.shields.io/badge/Next.JS-404D59?style=for-the-badge&logo=vercel&logoColor=white)
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)
 
-## im working on some projects... (mainly under [@backincgames](https://github.com/backincgames))
+## im working on some projects... (mainly under [@xyrdron](https://github.com/xyrdron))
 - [NOI Nuclear Power Plant](https://www.roblox.com/games/10231275883) (the repo is priv u aint seeing nothing :p)
-- [Skylar](https://github.com/backincgames/Skylar) `side note - I made this discord bot to replace clyde when discord put him to sleep`
-- Working on [backincorporated.net](https://github.com/backincgames/backincorporated.net) to showcase the rblx games we r building
-- ykkkk a few other small ones I wont mention
+- [Skylar](https://github.com/xyrdron/Skylar) `to replace clyde`
+- a few other small ones I wont mention
 
 ## a few things down here...
 - [I hate my youtube channel](https://www.youtube.com/@TheBACK001)
 - my roblox [profile](https://www.roblox.com/users/923206123/profile) `dont forget to follow!`
 - my discord usr is `150x`
-- dont forget our roblox [group](https://www.roblox.com/groups/13777086/Backincorporated-Games-Studio#!/about)
+- dont forget our roblox [group](https://www.roblox.com/groups/13777086/)
 ```python
-return README.md
+return
 ```
