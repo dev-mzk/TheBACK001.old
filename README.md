@@ -1,7 +1,9 @@
 # GET ON MY GITHUB ENTERPRISE SERVER BEFORE ITS GONE!!!!!
 only 46 days in trial!
+> if u want site admin pls text me on dc (user: 150x)
+ 
 [gogogogogogo](https://github.xyrdron.com)
-**if u want site admin pls text me on dc (user: 150x)**
+
 > [!CAUTION]
 > pls dont store sensitive info on here since its gonna get wiped in like a month or smt
 
