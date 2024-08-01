@@ -1,4 +1,4 @@
-# hello there...
+# hello there... (this is the most cringe thing I have ever made pls no read)
 
 <p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=TheBACK001&show_icons=true&locale=en&theme=tokyonight" alt="TheBACK001" /></p>
 
