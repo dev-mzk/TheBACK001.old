@@ -1,3 +1,10 @@
+# GET ON MY GITHUB ENTERPRISE SERVER BEFORE ITS GONE!!!!!
+only 46 days in trial!
+[gogogogogogo](https://github.xyrdron.com)
+> [!CAUTION]
+> pls dont store sensitive info on here since its gonna get wiped in like a month or smt
+> if u want site admin pls text me on dc (user: 150x)
+
 # hello there... (this is the most cringe thing I have ever made pls no read)
 
 <p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=TheBACK001&show_icons=true&locale=en&theme=tokyonight" alt="TheBACK001" /></p>
